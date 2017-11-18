@@ -56,11 +56,17 @@ In your CSS file, do the following:
   * Center the container horizontally and vertically using flex box.
 * Target the sound-container id.
   * Set the:
+    * ```width``` to '80%'
+    * Activate flex box
+    * Center horizontally and vertically
+    * Set ```flex-wrap``` to wrap.
+* Target the sound class.
+  * Set the:
     * ```width``` to '200px'
     * ```height``` to '200px'
     * ```margin``` to '2px'
     * ```border-radius``` to '200px'
-  * On hover:
+  * On hover of the sound class:
     * Set the ```box-shadow``` property to '0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);'
 * Change the background colors of each sound.
 
